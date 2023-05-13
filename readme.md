@@ -1,4 +1,4 @@
-# Hulu Website Clone
+
 
 > This is an HTML & CSS project. It is a static clone of the Hulu homepage
 
